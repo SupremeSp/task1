@@ -1,0 +1,17 @@
+.bar{
+    max-height: 150px;
+    background-color: skyblue;
+}
+.form{
+    margin-left: 20px;
+    padding-left: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+    background-color: skyblue;
+    width: 650px;
+    border: 2px solid black;
+}
+.message{
+    height: 120px;
+    width: 500px;
+}
